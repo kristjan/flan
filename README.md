@@ -13,5 +13,11 @@
 ### Layout
 
     %head
-      -# Google Analytics
+      -# Initialize Google Analytics
       = flan_js
+
+### Generates
+
+    <script type="text/javascript">
+      _gaq.push(['_trackPageview', '/_virtual/pudding/creation']);
+    </script>

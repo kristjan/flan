@@ -1,0 +1,3 @@
+module Flan
+  # Your code goes here...
+end
